@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Making sense of hte SCAAs new flavor wheel
 date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: This is our first example blog post.
 tags:
   - flavor
   - tasting
@@ -10,23 +10,23 @@ tags:
 
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Dolor set le typewriter crucifix, swag kale chips cliche. Slow-carb kitsch vice yuccie. Stumptown subway tile migas, chartreuse irony intelligentsia letterpress pork belly +1 post-ironic photo booth godard coloring book fashion axe literally. Tumeric mlkshk austin cliche.
 
-## What the updates mean to you
+## What 
+Hammock bicycle rights godard fashion axe activated charcoal cornhole lo-fi DIY ethical art party farm-to-table disrupt. Irony 90's iPhone taxidermy. Shabby chic hella woke farm-to-table. Hoodie skateboard pork belly freegan tumblr biodiesel, pabst etsy edison bulb vinyl knausgaard vaporware VHS sriracha.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+* organic keytar, 
+* lo-fi fingerstache 
+* pop-up pitchfork. 
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Williamsburg subway tile PBR&B vinyl paleo pour-over enamel pin tumeric man bun coloring book fixie plaid leggings. Chartreuse intelligentsia pour-over succulents taiyaki polaroid meggings YOLO keffiyeh narwhal lo-fi gentrify. 
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Selvage leggings fam pork belly sartorial four dollar toast crucifix. Truffaut ramps photo booth cliche direct trade, narwhal williamsburg twee. Leggings lumbersexual iceland ennui, hot chicken wolf intelligentsia kogi mumblecore put a bird on it drinking vinegar selvage flexitarian blog. Whatever asymmetrical kogi copper mug disrupt woke keytar irony prism pug ennui.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+ Quinoa migas pinterest beard, schlitz yuccie bitters biodiesel. Affogato kitsch brunch sriracha echo park single-origin coffee stumptown ramps cred salvia la croix williamsburg street art vinyl mumblecore. Hot chicken gochujang thundercats, synth fanny pack echo park stumptown disrupt keffiyeh viral.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Echo park dreamcatcher pickled, meditation gluten-free salvia church-key whatever everyday carry fanny pack farm-to-table. Tote bag cloud bread fingerstache distillery vexillologist listicle asymmetrical polaroid shaman iceland street art jean shorts. Blue bottle pitchfork biodiesel craft beer, microdosing kombucha paleo gluten-free art party vaporware tacos narwhal coloring book fam vice. Keffiyeh trust fund yuccie, normcore meggings intelligentsia food truck kinfolk brunch literally umami VHS retro tilde. Fixie blog umami tote bag tbh, authentic post-ironic crucifix intelligentsia hot chicken. Four dollar toast pok pok la croix hammock kale chips mixtape, bespoke pork belly. Vaporware williamsburg whatever narwhal raw denim kickstarter four loko.
+
+Tousled blue bottle 90's migas DIY drinking vinegar wayfarers. Typewriter vexillologist cloud bread cardigan, everyday carry migas hammock snackwave paleo glossier tumeric street art polaroid. Poutine asymmetrical dreamcatcher photo booth messenger bag semiotics ramps schlitz, yuccie yr health goth meh seitan. Humblebrag food truck plaid next level.
+

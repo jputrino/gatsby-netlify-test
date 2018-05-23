@@ -2,26 +2,24 @@
 templateKey: blog-post
 title: A beginners’ guide to brewing with Chemex
 date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+description: This is our second example blog post.
 tags:
   - brewing
   - chemex
 ---
 ![chemex](/img/chemex.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
-
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+Lorem ipsum dolor amet banjo fingerstache food truck seitan tumeric. Pug cronut lo-fi roof party. Gastropub lyft pug austin, man bun umami la croix selfies small batch.
 
 ## The little secrets of Chemex brewing
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Hot chicken kale chips, street art seitan roof party church-key. Bitters biodiesel etsy vegan snackwave, 8-bit messenger bag locavore gentrify banh mi salvia XOXO kogi. Salvia ramps iPhone, four dollar toast VHS williamsburg iceland etsy ugh heirloom air plant banh mi glossier truffaut. XOXO mustache umami yr blue bottle:
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+1. Chartreuse intelligentsia pour-over.
+2. Succulents taiyaki polaroid meggings.  
+3. YOLO
+4. Keffiyeh narwhal lo-fi gentrify.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+Selvage leggings fam pork belly sartorial four dollar toast crucifix. Truffaut ramps photo booth cliche direct trade, narwhal williamsburg twee. Leggings lumbersexual iceland ennui, hot chicken wolf intelligentsia kogi mumblecore. 
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Put a bird on it drinking vinegar selvage flexitarian blog. Whatever asymmetrical kogi copper mug disrupt woke keytar irony prism pug ennui.
